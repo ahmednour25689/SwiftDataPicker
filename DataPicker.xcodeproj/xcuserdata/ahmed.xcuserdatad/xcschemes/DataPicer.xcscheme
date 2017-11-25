@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E229F05A1FC9F69C0091ADCC"
-               BuildableName = "DataPicer.app"
-               BlueprintName = "DataPicer"
-               ReferencedContainer = "container:DataPicer.xcodeproj">
+               BuildableName = "DataPicker.app"
+               BlueprintName = "DataPicker"
+               ReferencedContainer = "container:DataPicker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E229F05A1FC9F69C0091ADCC"
-            BuildableName = "DataPicer.app"
-            BlueprintName = "DataPicer"
-            ReferencedContainer = "container:DataPicer.xcodeproj">
+            BuildableName = "DataPicker.app"
+            BlueprintName = "DataPicker"
+            ReferencedContainer = "container:DataPicker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E229F05A1FC9F69C0091ADCC"
-            BuildableName = "DataPicer.app"
-            BlueprintName = "DataPicer"
-            ReferencedContainer = "container:DataPicer.xcodeproj">
+            BuildableName = "DataPicker.app"
+            BlueprintName = "DataPicker"
+            ReferencedContainer = "container:DataPicker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E229F05A1FC9F69C0091ADCC"
-            BuildableName = "DataPicer.app"
-            BlueprintName = "DataPicer"
-            ReferencedContainer = "container:DataPicer.xcodeproj">
+            BuildableName = "DataPicker.app"
+            BlueprintName = "DataPicker"
+            ReferencedContainer = "container:DataPicker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

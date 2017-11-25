@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:DataPicer.xcodeproj">
+      location = "self:/Users/ahmed/Desktop/MacOSLearn/DataPicer/DataPicker.xcodeproj">
    </FileRef>
 </Workspace>
